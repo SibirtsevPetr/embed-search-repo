@@ -1,0 +1,10 @@
+{
+  "name": "test-repo0045",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "ai-embed-search": "*",
+    "lodash": "^4.17.21",
+    "cors": "*"
+  }
+}
