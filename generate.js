@@ -1,10 +1,29 @@
 const fs = require('fs');
 const path = require('path');
 
-const NUM_REPOS = 10000;
+const NUM_REPOS = 491;
 const BASE_DIR = __dirname;
 
-// Replace with your own selection of most popular npm packages
+const weightedVersions = (() => {
+    const weights = {
+        "1.5.1": 100,
+    };
+
+    const list = [];
+    for (const [version, weight] of Object.entries(weights)) {
+        for (let i = 0; i < Math.round(weight * 10); i++) {
+            list.push(version);
+        }
+    }
+    return list;
+})();
+
+// Random package version for ai-embed-search
+function getRandomAiEmbedSearchVersion() {
+    const index = Math.floor(Math.random() * weightedVersions.length);
+    return weightedVersions[index];
+}
+
 const popularPackages = [
     "react", "axios", "express", "moment", "chalk", "uuid",
     "dayjs", "commander", "debug", "dotenv", "mongoose",
@@ -25,15 +44,22 @@ for (let i = 1; i <= NUM_REPOS; i++) {
     if (!fs.existsSync(pkgPath)) continue;
 
     const pkg = JSON.parse(fs.readFileSync(pkgPath, 'utf-8'));
-    const existingDeps = Object.keys(pkg.dependencies || {});
-    const numToAdd = Math.floor(Math.random() * 3); // 0, 1, or 2
 
+    // Ensure dependencies object
+    pkg.dependencies = pkg.dependencies || {};
+
+    // Always overwrite ai-embed-search with random version
+    pkg.dependencies["ai-embed-search"] = getRandomAiEmbedSearchVersion();
+
+    const existingDeps = Object.keys(pkg.dependencies);
+    const numToAdd = Math.floor(Math.random() * 3); // 0, 1, or 2
     const newPackages = getRandomPackages(existingDeps, numToAdd);
+
     newPackages.forEach(name => {
-        pkg.dependencies[name] = "*"; // Or set to latest version if you prefer
+        pkg.dependencies[name] = "*"; // or choose specific versions
     });
 
     fs.writeFileSync(pkgPath, JSON.stringify(pkg, null, 2));
 }
 
-console.log(`✅ Updated ${NUM_REPOS} repos with random packages`);
+console.log(`✅ Updated ${NUM_REPOS} repos with random ai-embed-search versions and dependencies.`);
