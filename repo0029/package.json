@@ -8,6 +8,8 @@
     "uuid": "*",
     "bluebird": "*",
     "chalk": "*",
-    "jest": "*"
+    "jest": "*",
+    "dotenv": "*",
+    "commander": "*"
   }
 }
