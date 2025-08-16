@@ -11,6 +11,8 @@
     "dotenv": "*",
     "dayjs": "*",
     "mongoose": "*",
-    "react": "*"
+    "react": "*",
+    "prettier": "*",
+    "bluebird": "*"
   }
 }

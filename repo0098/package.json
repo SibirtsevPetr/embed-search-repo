@@ -11,6 +11,8 @@
     "mongoose": "*",
     "cors": "*",
     "async": "*",
-    "react": "*"
+    "react": "*",
+    "debug": "*",
+    "dotenv": "*"
   }
 }

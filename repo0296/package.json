@@ -12,6 +12,8 @@
     "async": "*",
     "axios": "*",
     "debug": "*",
-    "uuid": "*"
+    "uuid": "*",
+    "chalk": "*",
+    "cors": "*"
   }
 }

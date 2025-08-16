@@ -8,6 +8,8 @@
     "commander": "*",
     "express": "*",
     "debug": "*",
-    "prettier": "*"
+    "prettier": "*",
+    "cors": "*",
+    "uuid": "*"
   }
 }

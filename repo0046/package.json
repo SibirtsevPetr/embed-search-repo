@@ -9,6 +9,7 @@
     "uuid": "*",
     "cors": "*",
     "moment": "*",
-    "react": "*"
+    "react": "*",
+    "axios": "*"
   }
 }

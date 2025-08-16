@@ -11,6 +11,8 @@
     "uuid": "*",
     "jest": "*",
     "react": "*",
-    "commander": "*"
+    "commander": "*",
+    "debug": "*",
+    "dayjs": "*"
   }
 }

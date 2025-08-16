@@ -8,6 +8,8 @@
     "cors": "*",
     "dotenv": "*",
     "commander": "*",
-    "express": "*"
+    "express": "*",
+    "moment": "*",
+    "axios": "*"
   }
 }

@@ -12,6 +12,7 @@
     "debug": "*",
     "jest": "*",
     "uuid": "*",
-    "chalk": "*"
+    "chalk": "*",
+    "async": "*"
   }
 }

@@ -13,6 +13,8 @@
     "cors": "*",
     "react": "*",
     "moment": "*",
-    "async": "*"
+    "async": "*",
+    "prettier": "*",
+    "axios": "*"
   }
 }

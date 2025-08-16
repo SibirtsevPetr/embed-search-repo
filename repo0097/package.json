@@ -12,6 +12,8 @@
     "moment": "*",
     "jest": "*",
     "chalk": "*",
-    "dayjs": "*"
+    "dayjs": "*",
+    "dotenv": "*",
+    "debug": "*"
   }
 }

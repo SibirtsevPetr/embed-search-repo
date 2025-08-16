@@ -8,6 +8,8 @@
     "moment": "*",
     "prettier": "*",
     "debug": "*",
-    "axios": "*"
+    "axios": "*",
+    "dayjs": "*",
+    "react": "*"
   }
 }

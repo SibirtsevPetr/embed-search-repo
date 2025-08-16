@@ -9,6 +9,8 @@
     "async": "*",
     "mongoose": "*",
     "chalk": "*",
-    "moment": "*"
+    "moment": "*",
+    "uuid": "*",
+    "express": "*"
   }
 }

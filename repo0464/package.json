@@ -10,6 +10,8 @@
     "moment": "*",
     "mongoose": "*",
     "chalk": "*",
-    "react": "*"
+    "react": "*",
+    "dayjs": "*",
+    "async": "*"
   }
 }

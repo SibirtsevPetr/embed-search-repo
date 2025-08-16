@@ -8,6 +8,8 @@
     "express": "*",
     "react": "*",
     "bluebird": "*",
-    "axios": "*"
+    "axios": "*",
+    "uuid": "*",
+    "dayjs": "*"
   }
 }

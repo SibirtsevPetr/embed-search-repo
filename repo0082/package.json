@@ -9,6 +9,7 @@
     "express": "*",
     "bluebird": "*",
     "async": "*",
-    "dayjs": "*"
+    "dayjs": "*",
+    "uuid": "*"
   }
 }

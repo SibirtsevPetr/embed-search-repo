@@ -10,6 +10,8 @@
     "jest": "*",
     "express": "*",
     "async": "*",
-    "dayjs": "*"
+    "dayjs": "*",
+    "uuid": "*",
+    "chalk": "*"
   }
 }

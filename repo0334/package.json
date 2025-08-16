@@ -12,6 +12,8 @@
     "dayjs": "*",
     "uuid": "*",
     "commander": "*",
-    "debug": "*"
+    "debug": "*",
+    "bluebird": "*",
+    "mongoose": "*"
   }
 }

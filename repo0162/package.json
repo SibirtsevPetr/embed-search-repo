@@ -12,6 +12,8 @@
     "axios": "*",
     "moment": "*",
     "mongoose": "*",
-    "express": "*"
+    "express": "*",
+    "chalk": "*",
+    "jest": "*"
   }
 }

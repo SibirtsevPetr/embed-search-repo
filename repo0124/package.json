@@ -8,6 +8,8 @@
     "moment": "*",
     "cors": "*",
     "async": "*",
-    "jest": "*"
+    "jest": "*",
+    "bluebird": "*",
+    "dayjs": "*"
   }
 }

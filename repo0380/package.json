@@ -11,6 +11,8 @@
     "dotenv": "*",
     "react": "*",
     "axios": "*",
-    "mongoose": "*"
+    "mongoose": "*",
+    "chalk": "*",
+    "moment": "*"
   }
 }

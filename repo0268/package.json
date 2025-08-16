@@ -10,6 +10,8 @@
     "bluebird": "*",
     "debug": "*",
     "dayjs": "*",
-    "axios": "*"
+    "axios": "*",
+    "async": "*",
+    "dotenv": "*"
   }
 }

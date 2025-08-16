@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "ai-embed-search": "2.0.1",
+    "ai-embed-search": "2.0.2",
     "lodash": "^4.17.21",
     "dotenv": "*",
     "chalk": "*",
@@ -13,6 +13,7 @@
     "debug": "*",
     "async": "*",
     "uuid": "*",
-    "react": "*"
+    "react": "*",
+    "mongoose": "*"
   }
 }

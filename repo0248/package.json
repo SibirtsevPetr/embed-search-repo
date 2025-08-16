@@ -8,6 +8,8 @@
     "moment": "*",
     "commander": "*",
     "express": "*",
-    "dotenv": "*"
+    "dotenv": "*",
+    "bluebird": "*",
+    "dayjs": "*"
   }
 }

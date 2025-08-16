@@ -12,6 +12,8 @@
     "commander": "*",
     "mongoose": "*",
     "react": "*",
-    "dotenv": "*"
+    "dotenv": "*",
+    "async": "*",
+    "uuid": "*"
   }
 }

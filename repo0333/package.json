@@ -9,6 +9,7 @@
     "axios": "*",
     "dayjs": "*",
     "express": "*",
-    "bluebird": "*"
+    "bluebird": "*",
+    "moment": "*"
   }
 }

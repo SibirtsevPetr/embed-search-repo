@@ -11,6 +11,8 @@
     "mongoose": "*",
     "dotenv": "*",
     "prettier": "*",
-    "async": "*"
+    "async": "*",
+    "debug": "*",
+    "bluebird": "*"
   }
 }

@@ -11,6 +11,8 @@
     "axios": "*",
     "uuid": "*",
     "prettier": "*",
-    "commander": "*"
+    "commander": "*",
+    "async": "*",
+    "moment": "*"
   }
 }

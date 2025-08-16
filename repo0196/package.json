@@ -11,6 +11,8 @@
     "dotenv": "*",
     "prettier": "*",
     "chalk": "*",
-    "debug": "*"
+    "debug": "*",
+    "moment": "*",
+    "mongoose": "*"
   }
 }

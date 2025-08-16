@@ -11,6 +11,7 @@
     "dayjs": "*",
     "moment": "*",
     "chalk": "*",
-    "axios": "*"
+    "axios": "*",
+    "cors": "*"
   }
 }

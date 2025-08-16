@@ -8,6 +8,7 @@
     "async": "*",
     "react": "*",
     "debug": "*",
-    "bluebird": "*"
+    "bluebird": "*",
+    "dotenv": "*"
   }
 }

@@ -12,6 +12,8 @@
     "jest": "*",
     "react": "*",
     "async": "*",
-    "bluebird": "*"
+    "bluebird": "*",
+    "dotenv": "*",
+    "prettier": "*"
   }
 }

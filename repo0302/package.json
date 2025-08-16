@@ -9,6 +9,8 @@
     "moment": "*",
     "express": "*",
     "async": "*",
-    "axios": "*"
+    "axios": "*",
+    "mongoose": "*",
+    "uuid": "*"
   }
 }

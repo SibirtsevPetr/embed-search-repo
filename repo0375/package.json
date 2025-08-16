@@ -12,6 +12,8 @@
     "mongoose": "*",
     "jest": "*",
     "dotenv": "*",
-    "uuid": "*"
+    "uuid": "*",
+    "react": "*",
+    "commander": "*"
   }
 }

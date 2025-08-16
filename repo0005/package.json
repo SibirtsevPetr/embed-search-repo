@@ -10,6 +10,7 @@
     "react": "*",
     "chalk": "*",
     "dayjs": "*",
-    "async": "*"
+    "async": "*",
+    "axios": "*"
   }
 }

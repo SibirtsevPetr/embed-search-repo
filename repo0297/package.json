@@ -11,6 +11,7 @@
     "cors": "*",
     "uuid": "*",
     "mongoose": "*",
-    "bluebird": "*"
+    "bluebird": "*",
+    "jest": "*"
   }
 }

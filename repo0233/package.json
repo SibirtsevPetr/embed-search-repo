@@ -8,6 +8,8 @@
     "uuid": "*",
     "moment": "*",
     "react": "*",
-    "async": "*"
+    "async": "*",
+    "dayjs": "*",
+    "commander": "*"
   }
 }

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "ai-embed-search": "2.0.2",
+    "ai-embed-search": "1.4.1",
     "lodash": "^4.17.21",
     "moment": "*",
     "async": "*",
@@ -12,6 +12,8 @@
     "chalk": "*",
     "react": "*",
     "axios": "*",
-    "dotenv": "*"
+    "dotenv": "*",
+    "cors": "*",
+    "debug": "*"
   }
 }

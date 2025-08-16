@@ -12,6 +12,7 @@
     "chalk": "*",
     "debug": "*",
     "async": "*",
-    "react": "*"
+    "react": "*",
+    "uuid": "*"
   }
 }

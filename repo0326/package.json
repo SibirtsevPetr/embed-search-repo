@@ -9,6 +9,7 @@
     "express": "*",
     "axios": "*",
     "dayjs": "*",
-    "uuid": "*"
+    "uuid": "*",
+    "react": "*"
   }
 }

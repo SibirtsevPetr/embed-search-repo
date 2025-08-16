@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "ai-embed-search": "2.0.3",
+    "ai-embed-search": "2.0.1",
     "lodash": "^4.17.21",
     "mongoose": "*",
     "prettier": "*",
     "react": "*",
-    "express": "*"
+    "express": "*",
+    "chalk": "*",
+    "bluebird": "*"
   }
 }

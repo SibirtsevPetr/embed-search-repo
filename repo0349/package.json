@@ -11,6 +11,8 @@
     "uuid": "*",
     "react": "*",
     "axios": "*",
-    "async": "*"
+    "async": "*",
+    "dayjs": "*",
+    "cors": "*"
   }
 }

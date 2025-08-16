@@ -9,6 +9,8 @@
     "mongoose": "*",
     "uuid": "*",
     "chalk": "*",
-    "debug": "*"
+    "debug": "*",
+    "commander": "*",
+    "cors": "*"
   }
 }

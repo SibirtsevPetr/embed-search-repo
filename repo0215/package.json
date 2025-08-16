@@ -10,6 +10,8 @@
     "bluebird": "*",
     "cors": "*",
     "async": "*",
-    "dayjs": "*"
+    "dayjs": "*",
+    "dotenv": "*",
+    "chalk": "*"
   }
 }
