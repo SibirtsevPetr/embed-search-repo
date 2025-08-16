@@ -8,6 +8,8 @@
     "jest": "*",
     "express": "*",
     "mongoose": "*",
-    "prettier": "*"
+    "prettier": "*",
+    "async": "*",
+    "bluebird": "*"
   }
 }

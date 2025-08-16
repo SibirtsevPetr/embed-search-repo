@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "ai-embed-search": "0.0.3",
+    "ai-embed-search": "1.4.0",
     "lodash": "^4.17.21",
     "moment": "*",
     "dayjs": "*",
     "express": "*",
     "react": "*",
-    "prettier": "*"
+    "prettier": "*",
+    "debug": "*"
   }
 }

@@ -8,6 +8,8 @@
     "commander": "*",
     "async": "*",
     "cors": "*",
-    "express": "*"
+    "express": "*",
+    "moment": "*",
+    "chalk": "*"
   }
 }

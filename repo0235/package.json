@@ -9,6 +9,8 @@
     "async": "*",
     "moment": "*",
     "axios": "*",
-    "prettier": "*"
+    "prettier": "*",
+    "debug": "*",
+    "bluebird": "*"
   }
 }

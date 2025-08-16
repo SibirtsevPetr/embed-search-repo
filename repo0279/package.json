@@ -9,6 +9,8 @@
     "uuid": "*",
     "bluebird": "*",
     "mongoose": "*",
-    "dayjs": "*"
+    "dayjs": "*",
+    "moment": "*",
+    "chalk": "*"
   }
 }

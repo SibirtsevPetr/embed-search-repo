@@ -8,6 +8,8 @@
     "chalk": "*",
     "express": "*",
     "async": "*",
-    "dotenv": "*"
+    "dotenv": "*",
+    "debug": "*",
+    "react": "*"
   }
 }

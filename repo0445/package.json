@@ -9,6 +9,8 @@
     "express": "*",
     "commander": "*",
     "axios": "*",
-    "react": "*"
+    "react": "*",
+    "jest": "*",
+    "uuid": "*"
   }
 }

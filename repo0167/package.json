@@ -5,6 +5,8 @@
   "dependencies": {
     "ai-embed-search": "1.4.2",
     "lodash": "^4.17.21",
-    "uuid": "*"
+    "uuid": "*",
+    "jest": "*",
+    "express": "*"
   }
 }

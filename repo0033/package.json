@@ -6,6 +6,8 @@
     "ai-embed-search": "2.0.2",
     "lodash": "^4.17.21",
     "dotenv": "*",
-    "chalk": "*"
+    "chalk": "*",
+    "async": "*",
+    "react": "*"
   }
 }

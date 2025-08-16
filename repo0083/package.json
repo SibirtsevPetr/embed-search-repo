@@ -8,6 +8,8 @@
     "cors": "*",
     "uuid": "*",
     "dayjs": "*",
-    "bluebird": "*"
+    "bluebird": "*",
+    "chalk": "*",
+    "moment": "*"
   }
 }

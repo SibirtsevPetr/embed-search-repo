@@ -8,6 +8,7 @@
     "dotenv": "*",
     "chalk": "*",
     "jest": "*",
-    "dayjs": "*"
+    "dayjs": "*",
+    "express": "*"
   }
 }

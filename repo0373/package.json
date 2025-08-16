@@ -8,6 +8,8 @@
     "express": "*",
     "chalk": "*",
     "moment": "*",
-    "uuid": "*"
+    "uuid": "*",
+    "jest": "*",
+    "react": "*"
   }
 }

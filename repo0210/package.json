@@ -9,6 +9,8 @@
     "commander": "*",
     "react": "*",
     "axios": "*",
-    "express": "*"
+    "express": "*",
+    "debug": "*",
+    "bluebird": "*"
   }
 }

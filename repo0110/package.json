@@ -8,6 +8,7 @@
     "bluebird": "*",
     "dotenv": "*",
     "chalk": "*",
-    "uuid": "*"
+    "uuid": "*",
+    "react": "*"
   }
 }

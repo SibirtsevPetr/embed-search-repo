@@ -7,6 +7,8 @@
     "lodash": "^4.17.21",
     "cors": "*",
     "mongoose": "*",
-    "uuid": "*"
+    "uuid": "*",
+    "async": "*",
+    "dayjs": "*"
   }
 }

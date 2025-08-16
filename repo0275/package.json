@@ -9,6 +9,7 @@
     "mongoose": "*",
     "jest": "*",
     "commander": "*",
-    "cors": "*"
+    "cors": "*",
+    "chalk": "*"
   }
 }
