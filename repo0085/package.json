@@ -10,6 +10,8 @@
     "chalk": "*",
     "express": "*",
     "uuid": "*",
-    "debug": "*"
+    "debug": "*",
+    "commander": "*",
+    "dotenv": "*"
   }
 }

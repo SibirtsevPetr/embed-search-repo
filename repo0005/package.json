@@ -9,6 +9,7 @@
     "express": "*",
     "react": "*",
     "chalk": "*",
-    "dayjs": "*"
+    "dayjs": "*",
+    "async": "*"
   }
 }

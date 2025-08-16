@@ -8,6 +8,7 @@
     "moment": "*",
     "prettier": "*",
     "commander": "*",
-    "express": "*"
+    "express": "*",
+    "jest": "*"
   }
 }

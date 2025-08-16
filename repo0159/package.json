@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "ai-embed-search": "1.2.2",
+    "ai-embed-search": "1.2.0",
     "lodash": "^4.17.21",
     "dayjs": "*",
     "debug": "*",
     "commander": "*",
     "dotenv": "*",
-    "uuid": "*"
+    "uuid": "*",
+    "cors": "*"
   }
 }

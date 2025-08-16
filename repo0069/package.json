@@ -8,6 +8,7 @@
     "uuid": "*",
     "cors": "*",
     "commander": "*",
-    "dayjs": "*"
+    "dayjs": "*",
+    "react": "*"
   }
 }

@@ -9,6 +9,7 @@
     "axios": "*",
     "prettier": "*",
     "debug": "*",
-    "commander": "*"
+    "commander": "*",
+    "bluebird": "*"
   }
 }

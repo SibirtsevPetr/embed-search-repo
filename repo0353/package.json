@@ -8,6 +8,8 @@
     "chalk": "*",
     "bluebird": "*",
     "jest": "*",
-    "react": "*"
+    "react": "*",
+    "commander": "*",
+    "dotenv": "*"
   }
 }

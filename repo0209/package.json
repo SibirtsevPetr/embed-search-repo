@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "ai-embed-search": "0.0.1",
+    "ai-embed-search": "2.0.2",
     "lodash": "^4.17.21",
     "dotenv": "*",
     "jest": "*",
@@ -11,6 +11,8 @@
     "express": "*",
     "uuid": "*",
     "dayjs": "*",
-    "mongoose": "*"
+    "mongoose": "*",
+    "debug": "*",
+    "chalk": "*"
   }
 }

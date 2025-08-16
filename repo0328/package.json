@@ -8,6 +8,7 @@
     "jest": "*",
     "express": "*",
     "dotenv": "*",
-    "prettier": "*"
+    "prettier": "*",
+    "cors": "*"
   }
 }

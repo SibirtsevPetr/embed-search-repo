@@ -9,6 +9,8 @@
     "axios": "*",
     "bluebird": "*",
     "express": "*",
-    "commander": "*"
+    "commander": "*",
+    "debug": "*",
+    "mongoose": "*"
   }
 }

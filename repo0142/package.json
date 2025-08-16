@@ -8,6 +8,7 @@
     "dotenv": "*",
     "uuid": "*",
     "react": "*",
-    "debug": "*"
+    "debug": "*",
+    "dayjs": "*"
   }
 }

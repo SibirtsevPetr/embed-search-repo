@@ -8,6 +8,7 @@
     "uuid": "*",
     "dayjs": "*",
     "commander": "*",
-    "mongoose": "*"
+    "mongoose": "*",
+    "bluebird": "*"
   }
 }

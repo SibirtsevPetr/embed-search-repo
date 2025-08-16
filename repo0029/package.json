@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "ai-embed-search": "2.0.3",
+    "ai-embed-search": "1.2.2",
     "lodash": "^4.17.21",
     "uuid": "*",
     "bluebird": "*",
@@ -11,6 +11,7 @@
     "jest": "*",
     "dotenv": "*",
     "commander": "*",
-    "react": "*"
+    "react": "*",
+    "dayjs": "*"
   }
 }

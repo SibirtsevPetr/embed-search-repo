@@ -8,6 +8,7 @@
     "jest": "*",
     "cors": "*",
     "mongoose": "*",
-    "debug": "*"
+    "debug": "*",
+    "react": "*"
   }
 }

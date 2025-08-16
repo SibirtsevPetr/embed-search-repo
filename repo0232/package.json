@@ -10,6 +10,8 @@
     "cors": "*",
     "express": "*",
     "moment": "*",
-    "chalk": "*"
+    "chalk": "*",
+    "mongoose": "*",
+    "dotenv": "*"
   }
 }

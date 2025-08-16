@@ -8,6 +8,7 @@
     "react": "*",
     "bluebird": "*",
     "cors": "*",
-    "debug": "*"
+    "debug": "*",
+    "commander": "*"
   }
 }

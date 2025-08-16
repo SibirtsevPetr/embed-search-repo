@@ -9,6 +9,7 @@
     "jest": "*",
     "mongoose": "*",
     "dayjs": "*",
-    "prettier": "*"
+    "prettier": "*",
+    "dotenv": "*"
   }
 }

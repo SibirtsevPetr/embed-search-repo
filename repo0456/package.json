@@ -8,6 +8,8 @@
     "debug": "*",
     "chalk": "*",
     "bluebird": "*",
-    "jest": "*"
+    "jest": "*",
+    "moment": "*",
+    "async": "*"
   }
 }

@@ -8,6 +8,8 @@
     "react": "*",
     "express": "*",
     "async": "*",
-    "dotenv": "*"
+    "dotenv": "*",
+    "debug": "*",
+    "uuid": "*"
   }
 }

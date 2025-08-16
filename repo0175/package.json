@@ -10,6 +10,8 @@
     "jest": "*",
     "async": "*",
     "bluebird": "*",
-    "debug": "*"
+    "debug": "*",
+    "moment": "*",
+    "prettier": "*"
   }
 }

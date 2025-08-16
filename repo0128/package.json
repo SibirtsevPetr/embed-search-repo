@@ -9,6 +9,8 @@
     "chalk": "*",
     "react": "*",
     "bluebird": "*",
-    "dayjs": "*"
+    "dayjs": "*",
+    "async": "*",
+    "prettier": "*"
   }
 }

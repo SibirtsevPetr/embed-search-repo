@@ -11,6 +11,8 @@
     "dayjs": "*",
     "jest": "*",
     "uuid": "*",
-    "debug": "*"
+    "debug": "*",
+    "express": "*",
+    "chalk": "*"
   }
 }

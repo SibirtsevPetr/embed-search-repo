@@ -8,6 +8,7 @@
     "react": "*",
     "async": "*",
     "chalk": "*",
-    "cors": "*"
+    "cors": "*",
+    "uuid": "*"
   }
 }

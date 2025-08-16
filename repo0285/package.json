@@ -10,6 +10,7 @@
     "commander": "*",
     "chalk": "*",
     "async": "*",
-    "dotenv": "*"
+    "dotenv": "*",
+    "express": "*"
   }
 }

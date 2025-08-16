@@ -8,6 +8,8 @@
     "express": "*",
     "async": "*",
     "moment": "*",
-    "bluebird": "*"
+    "bluebird": "*",
+    "uuid": "*",
+    "debug": "*"
   }
 }

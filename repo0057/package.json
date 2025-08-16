@@ -8,6 +8,8 @@
     "bluebird": "*",
     "debug": "*",
     "express": "*",
-    "async": "*"
+    "async": "*",
+    "commander": "*",
+    "react": "*"
   }
 }

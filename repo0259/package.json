@@ -10,6 +10,8 @@
     "dotenv": "*",
     "jest": "*",
     "bluebird": "*",
-    "cors": "*"
+    "cors": "*",
+    "dayjs": "*",
+    "mongoose": "*"
   }
 }

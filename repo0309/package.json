@@ -9,6 +9,7 @@
     "debug": "*",
     "prettier": "*",
     "axios": "*",
-    "dayjs": "*"
+    "dayjs": "*",
+    "cors": "*"
   }
 }

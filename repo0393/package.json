@@ -9,6 +9,8 @@
     "prettier": "*",
     "moment": "*",
     "commander": "*",
-    "mongoose": "*"
+    "mongoose": "*",
+    "chalk": "*",
+    "uuid": "*"
   }
 }

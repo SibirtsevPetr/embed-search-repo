@@ -10,6 +10,7 @@
     "dotenv": "*",
     "react": "*",
     "axios": "*",
-    "express": "*"
+    "express": "*",
+    "commander": "*"
   }
 }
