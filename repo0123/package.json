@@ -8,6 +8,8 @@
     "uuid": "*",
     "mongoose": "*",
     "debug": "*",
-    "react": "*"
+    "react": "*",
+    "chalk": "*",
+    "commander": "*"
   }
 }

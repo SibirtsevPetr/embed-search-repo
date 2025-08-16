@@ -9,6 +9,8 @@
     "react": "*",
     "async": "*",
     "chalk": "*",
-    "dayjs": "*"
+    "dayjs": "*",
+    "dotenv": "*",
+    "mongoose": "*"
   }
 }

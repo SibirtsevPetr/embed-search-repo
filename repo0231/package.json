@@ -9,6 +9,8 @@
     "debug": "*",
     "axios": "*",
     "chalk": "*",
-    "react": "*"
+    "react": "*",
+    "uuid": "*",
+    "bluebird": "*"
   }
 }

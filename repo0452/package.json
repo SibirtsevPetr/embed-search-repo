@@ -9,6 +9,7 @@
     "chalk": "*",
     "jest": "*",
     "commander": "*",
-    "mongoose": "*"
+    "mongoose": "*",
+    "moment": "*"
   }
 }

@@ -9,6 +9,7 @@
     "chalk": "*",
     "cors": "*",
     "moment": "*",
-    "debug": "*"
+    "debug": "*",
+    "commander": "*"
   }
 }

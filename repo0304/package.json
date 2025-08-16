@@ -9,6 +9,7 @@
     "mongoose": "*",
     "uuid": "*",
     "async": "*",
-    "dayjs": "*"
+    "dayjs": "*",
+    "moment": "*"
   }
 }

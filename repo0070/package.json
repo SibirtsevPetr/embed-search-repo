@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "ai-embed-search": "1.2.2",
+    "ai-embed-search": "2.0.1",
     "lodash": "^4.17.21",
     "debug": "*",
     "chalk": "*",
     "dayjs": "*",
     "prettier": "*",
     "express": "*",
-    "bluebird": "*"
+    "bluebird": "*",
+    "react": "*"
   }
 }

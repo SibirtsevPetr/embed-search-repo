@@ -11,6 +11,8 @@
     "react": "*",
     "commander": "*",
     "express": "*",
-    "cors": "*"
+    "cors": "*",
+    "debug": "*",
+    "dayjs": "*"
   }
 }

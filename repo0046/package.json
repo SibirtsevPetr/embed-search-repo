@@ -8,6 +8,7 @@
     "jest": "*",
     "uuid": "*",
     "cors": "*",
-    "moment": "*"
+    "moment": "*",
+    "react": "*"
   }
 }

@@ -11,6 +11,8 @@
     "jest": "*",
     "commander": "*",
     "cors": "*",
-    "dayjs": "*"
+    "dayjs": "*",
+    "axios": "*",
+    "dotenv": "*"
   }
 }

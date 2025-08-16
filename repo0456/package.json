@@ -10,6 +10,7 @@
     "bluebird": "*",
     "jest": "*",
     "moment": "*",
-    "async": "*"
+    "async": "*",
+    "dotenv": "*"
   }
 }

@@ -8,6 +8,7 @@
     "async": "*",
     "express": "*",
     "axios": "*",
-    "dayjs": "*"
+    "dayjs": "*",
+    "uuid": "*"
   }
 }

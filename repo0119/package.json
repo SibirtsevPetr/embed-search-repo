@@ -11,6 +11,7 @@
     "moment": "*",
     "debug": "*",
     "chalk": "*",
-    "mongoose": "*"
+    "mongoose": "*",
+    "express": "*"
   }
 }

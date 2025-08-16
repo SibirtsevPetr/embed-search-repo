@@ -9,6 +9,7 @@
     "react": "*",
     "jest": "*",
     "axios": "*",
-    "express": "*"
+    "express": "*",
+    "cors": "*"
   }
 }

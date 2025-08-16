@@ -8,6 +8,7 @@
     "bluebird": "*",
     "commander": "*",
     "react": "*",
-    "dayjs": "*"
+    "dayjs": "*",
+    "dotenv": "*"
   }
 }

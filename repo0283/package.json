@@ -9,6 +9,7 @@
     "prettier": "*",
     "mongoose": "*",
     "debug": "*",
-    "express": "*"
+    "express": "*",
+    "moment": "*"
   }
 }

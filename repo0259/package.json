@@ -12,6 +12,8 @@
     "bluebird": "*",
     "cors": "*",
     "dayjs": "*",
-    "mongoose": "*"
+    "mongoose": "*",
+    "axios": "*",
+    "uuid": "*"
   }
 }

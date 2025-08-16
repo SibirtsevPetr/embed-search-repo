@@ -9,6 +9,8 @@
     "bluebird": "*",
     "express": "*",
     "axios": "*",
-    "mongoose": "*"
+    "mongoose": "*",
+    "async": "*",
+    "react": "*"
   }
 }

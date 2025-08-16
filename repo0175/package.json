@@ -12,6 +12,7 @@
     "bluebird": "*",
     "debug": "*",
     "moment": "*",
-    "prettier": "*"
+    "prettier": "*",
+    "dayjs": "*"
   }
 }

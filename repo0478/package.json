@@ -10,6 +10,8 @@
     "uuid": "*",
     "express": "*",
     "chalk": "*",
-    "async": "*"
+    "async": "*",
+    "moment": "*",
+    "dotenv": "*"
   }
 }

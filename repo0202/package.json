@@ -12,6 +12,8 @@
     "async": "*",
     "uuid": "*",
     "axios": "*",
-    "commander": "*"
+    "commander": "*",
+    "jest": "*",
+    "debug": "*"
   }
 }

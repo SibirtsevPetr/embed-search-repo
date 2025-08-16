@@ -10,6 +10,7 @@
     "moment": "*",
     "uuid": "*",
     "jest": "*",
-    "react": "*"
+    "react": "*",
+    "commander": "*"
   }
 }

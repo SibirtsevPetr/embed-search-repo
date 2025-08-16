@@ -9,6 +9,8 @@
     "express": "*",
     "dotenv": "*",
     "prettier": "*",
-    "cors": "*"
+    "cors": "*",
+    "async": "*",
+    "debug": "*"
   }
 }

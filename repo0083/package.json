@@ -12,6 +12,8 @@
     "chalk": "*",
     "moment": "*",
     "mongoose": "*",
-    "commander": "*"
+    "commander": "*",
+    "debug": "*",
+    "prettier": "*"
   }
 }

@@ -5,6 +5,8 @@
   "dependencies": {
     "ai-embed-search": "2.0.3",
     "lodash": "^4.17.21",
-    "dayjs": "*"
+    "dayjs": "*",
+    "moment": "*",
+    "commander": "*"
   }
 }

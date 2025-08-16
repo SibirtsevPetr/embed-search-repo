@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "ai-embed-search": "1.4.1",
+    "ai-embed-search": "1.4.0",
     "lodash": "^4.17.21",
     "dayjs": "*",
-    "prettier": "*"
+    "prettier": "*",
+    "debug": "*",
+    "chalk": "*"
   }
 }

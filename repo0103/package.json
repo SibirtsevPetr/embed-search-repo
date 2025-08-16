@@ -11,6 +11,7 @@
     "bluebird": "*",
     "mongoose": "*",
     "dotenv": "*",
-    "cors": "*"
+    "cors": "*",
+    "react": "*"
   }
 }

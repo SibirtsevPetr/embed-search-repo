@@ -9,6 +9,8 @@
     "react": "*",
     "prettier": "*",
     "express": "*",
-    "jest": "*"
+    "jest": "*",
+    "debug": "*",
+    "chalk": "*"
   }
 }

@@ -9,6 +9,8 @@
     "async": "*",
     "debug": "*",
     "dotenv": "*",
-    "moment": "*"
+    "moment": "*",
+    "chalk": "*",
+    "jest": "*"
   }
 }

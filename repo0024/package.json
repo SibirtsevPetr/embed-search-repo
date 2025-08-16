@@ -8,6 +8,7 @@
     "prettier": "*",
     "moment": "*",
     "debug": "*",
-    "bluebird": "*"
+    "bluebird": "*",
+    "jest": "*"
   }
 }

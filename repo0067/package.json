@@ -10,6 +10,8 @@
     "chalk": "*",
     "axios": "*",
     "debug": "*",
-    "async": "*"
+    "async": "*",
+    "jest": "*",
+    "prettier": "*"
   }
 }

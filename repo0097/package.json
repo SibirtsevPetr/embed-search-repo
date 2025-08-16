@@ -3,13 +3,15 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "ai-embed-search": "1.1.0",
+    "ai-embed-search": "2.0.2",
     "lodash": "^4.17.21",
     "mongoose": "*",
     "uuid": "*",
     "react": "*",
     "commander": "*",
     "moment": "*",
-    "jest": "*"
+    "jest": "*",
+    "chalk": "*",
+    "dayjs": "*"
   }
 }

@@ -7,6 +7,8 @@
     "lodash": "^4.17.21",
     "commander": "*",
     "jest": "*",
-    "moment": "*"
+    "moment": "*",
+    "uuid": "*",
+    "dayjs": "*"
   }
 }

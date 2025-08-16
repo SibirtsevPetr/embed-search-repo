@@ -10,6 +10,7 @@
     "react": "*",
     "axios": "*",
     "uuid": "*",
-    "prettier": "*"
+    "prettier": "*",
+    "commander": "*"
   }
 }

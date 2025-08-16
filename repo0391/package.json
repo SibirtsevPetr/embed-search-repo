@@ -11,6 +11,8 @@
     "commander": "*",
     "debug": "*",
     "axios": "*",
-    "uuid": "*"
+    "uuid": "*",
+    "async": "*",
+    "dotenv": "*"
   }
 }

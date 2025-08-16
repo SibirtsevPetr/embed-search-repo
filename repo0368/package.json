@@ -8,6 +8,8 @@
     "jest": "*",
     "async": "*",
     "react": "*",
-    "axios": "*"
+    "axios": "*",
+    "prettier": "*",
+    "dotenv": "*"
   }
 }

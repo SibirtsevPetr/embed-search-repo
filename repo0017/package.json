@@ -13,6 +13,8 @@
     "uuid": "*",
     "async": "*",
     "cors": "*",
-    "moment": "*"
+    "moment": "*",
+    "commander": "*",
+    "dayjs": "*"
   }
 }

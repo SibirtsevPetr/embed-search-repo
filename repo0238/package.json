@@ -9,6 +9,8 @@
     "chalk": "*",
     "jest": "*",
     "dayjs": "*",
-    "express": "*"
+    "express": "*",
+    "react": "*",
+    "axios": "*"
   }
 }
